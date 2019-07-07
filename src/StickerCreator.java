@@ -10,4 +10,9 @@ public class StickerCreator {
 	{
 		//create sticker 2
 	}
+	
+	public void CreateSticker3()
+	{
+		//create sticker 3
+	}
 }
